@@ -7,4 +7,4 @@
 * Javascript
 
 ### [dev.finance$](https://geanbressan.github.io/maratona-discover-01/)
-<img src="./assets/preview.png" alt="Preview do projeto">
+![Preview do projeto](./assets/preview.png)
